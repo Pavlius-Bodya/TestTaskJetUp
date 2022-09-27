@@ -23,7 +23,6 @@ export const DictionaryForm = ({ dictionary }) => {
    })
 
   }
-  console.log(dictionary)
 
   
 

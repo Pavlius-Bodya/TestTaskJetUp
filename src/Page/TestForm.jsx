@@ -43,8 +43,6 @@ export const TestForm = () => {
     }
   }
   
-  console.log(dictionaryForTest)
-  console.log(result)
   
     
   return (
